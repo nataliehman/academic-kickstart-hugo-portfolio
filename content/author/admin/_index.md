@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = ""
+role = "UX Designer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "UX Designer from London"
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email = ""

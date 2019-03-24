@@ -1,0 +1,31 @@
+h2{
+  font-weight: 700;
+  margin-top:2em;
+  font-size: 1.8rem;
+}
+
+h2:first-child {
+  margin-top: 0.5em;
+}
+
+figcaption h4 {
+  font-size: 0.8em;
+}
+
+figure.course-photos {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.author-card {
+  margin-top:3em;
+}
+
+.text-emphasis {
+  color: #2962ff;
+}
+
+video {
+  max-height:28em;
+}
+
