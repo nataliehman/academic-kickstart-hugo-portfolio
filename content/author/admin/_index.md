@@ -81,6 +81,6 @@ bio = "UX Designer from London"
 
 I'm currently looking for opportunities in starting a new career path as a UX Designer.
 
-My technical experience was developed through working in a small advertising technology company as a Front-end Developer.
+My previous experience was a Front-end Developer in a small advertising technology company.
 
-I was always curious about having a career in Design, which led me to learn about User Experience. To develop my general knowledge, I have took part in projects that demonstrates the different methodologies used. 
+I was always curious about having a career in Design, which led me to learn about User Experience. To develop my knowledge, I have undertaken projects that demonstrates the different UX methodologies I have learnt so far. 
