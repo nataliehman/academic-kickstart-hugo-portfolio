@@ -63,6 +63,11 @@ bio = "UX Designer from London"
   icon_pack = "fab"
   link = "https://twitter.com/nataliehman"
 
+  [[social]]
+  icon = "vimeo"
+  icon_pack = "fab"
+  link = "https://vimeo.com/nataliehman"
+
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
