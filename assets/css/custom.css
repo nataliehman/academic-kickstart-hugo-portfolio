@@ -28,3 +28,7 @@ h2{
   video {
     max-height:28em;
   }
+
+  .home-section {
+      padding-top: 60px;
+  }
