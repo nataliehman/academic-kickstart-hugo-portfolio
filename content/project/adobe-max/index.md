@@ -3,6 +3,9 @@ title = "Prototyping Smart Devices with ProtoPie and LittleBits"
 date = 2018-12-24T17:21:39Z
 draft = false
 
+# Project summary to display on homepage.
+summary = "A project focused on prototyping with smart devices using ProtoPie and LittleBits."
+
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []

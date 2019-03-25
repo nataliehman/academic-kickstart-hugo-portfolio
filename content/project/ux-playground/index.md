@@ -3,6 +3,9 @@ title = "Eat Smart: a health app for smart devices"
 date = 2018-12-24T17:18:55Z
 draft = false
 
+# Project summary to display on homepage.
+summary = "A project focused on designing interfaces for smart devices."
+
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
