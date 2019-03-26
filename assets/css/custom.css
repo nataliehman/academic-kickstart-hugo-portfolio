@@ -35,10 +35,6 @@ h2{
       padding-top: 60px !important;
   }
 
-  .project-showcase .project-item {
-    background: #ffffff;
-  }
-
   .project-showcase .row {
     background:#ffffff;
   }
@@ -46,11 +42,6 @@ h2{
 /* Responsive breakpoints */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-  .project-showcase {
-    margin-left: -15px;
-    margin-right:-15px;
-  }
-
   .article-title {
     font-size:1.5rem;
   }
