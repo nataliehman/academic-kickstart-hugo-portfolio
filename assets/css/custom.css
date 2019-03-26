@@ -1,7 +1,7 @@
 /* Elements on single project page */
 h2{
     font-weight: 700;
-    
+    margin-top:1em;
     font-size: 1.8rem;
   }
   
@@ -61,7 +61,7 @@ h2{
   .project-item img {
     margin-bottom: 0;
   }
-
+  
 }
 
 /* Large devices (desktops, 992px and up) */
