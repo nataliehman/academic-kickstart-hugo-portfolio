@@ -44,7 +44,7 @@
       </div>
 
     </div>
-    <div class="col-12 col-md-5 order-first mb-3 {{$order}}">
+    <div class="col-12 col-md-5 order-first {{$order}}">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ with $resource }}
       {{ $image := .Resize "540x" }}
