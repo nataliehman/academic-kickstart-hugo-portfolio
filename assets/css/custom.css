@@ -39,9 +39,8 @@ h2{
     background: #ffffff;
   }
 
-  .project-showcase {
-    margin-left: 15px;
-    margin-right:15px;
+  .project-showcase .row {
+    background:#ffffff;
   }
 
 /* Responsive breakpoints */
