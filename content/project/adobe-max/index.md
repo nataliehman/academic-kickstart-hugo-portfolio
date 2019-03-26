@@ -2,6 +2,7 @@
 title = "Prototyping Smart Devices with ProtoPie and LittleBits"
 date = 2018-12-24T17:21:39Z
 draft = false
+weight = 1
 
 # Project summary to display on homepage.
 summary = "A project focused on prototyping with smart devices using ProtoPie and LittleBits."

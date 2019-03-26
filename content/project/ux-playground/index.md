@@ -2,6 +2,7 @@
 title = "Eat Smart: a health app for smart devices"
 date = 2018-12-24T17:18:55Z
 draft = false
+weight = 2
 
 # Project summary to display on homepage.
 summary = "A project focused on designing interfaces for smart devices."

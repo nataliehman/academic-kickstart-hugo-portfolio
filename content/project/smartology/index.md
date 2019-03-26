@@ -2,6 +2,7 @@
 title = "Designing an Internal Dashboard"
 date = 2018-12-24T17:21:53Z
 draft = false
+weight = 3
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
