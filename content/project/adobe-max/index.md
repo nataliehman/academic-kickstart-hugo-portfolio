@@ -42,7 +42,7 @@ Our research covered topics such as UI kits, interfaces, and prototyping. Since 
 
 {{< figure class="course-photos text-center" src="imgs/non-smart-ui-research.jpg" title="Research for prototyping with non-smart device interfaces" >}}
 
-{{< figure class="project-photos text-center" src="imgs/smart-ui-research.jpg" title="Research for prototyping with smart device interfaces" >}}
+{{< figure class="course-photos text-center" src="imgs/smart-ui-research.jpg" title="Research for prototyping with smart device interfaces" >}}
 
 I also researched what prototyping tools Adobe XD can integrate with. However, from my experience with the UX Playground project, we used ProtoPie as the tool for prototyping animation and interaction (this was before Adobe implemented the Auto-animate feature into XD).
 
@@ -55,7 +55,7 @@ We spoke with a staff member from ProtoPie, who suggested us to use Arduino and 
 
 For ideation, we explored how we interact with physical interfaces e.g. light switch, and how they are designed in existing smart devices. This is mainly to help us understand how we can do hardware prototyping. 
 
-{{< figure class="project-photos text-center" src="imgs/ideation-research.jpg" title="One of our ideation session" >}}
+{{< figure class="course-photos text-center" src="imgs/ideation-research.jpg" title="One of our ideation session" >}}
 
 Throughout this phase, I was experimenting and testing how LittleBits work with ProtoPie. This exercise allowed us to see what types of interactions we can prototype for the project.
 
