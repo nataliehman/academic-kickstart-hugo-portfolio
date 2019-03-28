@@ -86,4 +86,23 @@ h2{
   .article-title {
     font-size:1.75rem;
   }
+
+  .container {
+    max-width: 960px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .project-item img {
+    margin-bottom: 0;
+  }
+
+  .article-title {
+    font-size:1.75rem;
+  }
+
+  .container {
+    max-width: 1140px;
+  }
 }
