@@ -51,9 +51,7 @@ h2{
 /* Responsive breakpoints */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-  .article-title {
-    font-size:1.75rem;
-  }
+  
 
 }
 
@@ -71,4 +69,7 @@ h2{
     margin-bottom: 0;
   }
 
+  .article-title {
+    font-size:1.75rem;
+  }
 }
