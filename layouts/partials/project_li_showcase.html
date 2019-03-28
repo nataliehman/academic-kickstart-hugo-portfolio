@@ -34,7 +34,7 @@
         {{ $summary = $item.Summary }}
       {{ end }}
       {{ with $summary }}
-      <div class="article-style" itemprop="articleBody">
+      <div class="article-style article-body-text" itemprop="articleBody">
         {{ . | markdownify | emojify }}
       </div>
       {{ end }}

@@ -63,6 +63,17 @@ h2{
   
 }
 
+/* Medium devices (desktops, 927px and up) */
+@media (min-width: 927px) {
+  .article-title {
+    font-size:1.3rem;
+  }
+
+  .article-body-text {
+    font-size:0.9rem;
+  }
+}
+
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   .project-item img {
