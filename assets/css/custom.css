@@ -61,6 +61,9 @@ h2{
     margin-bottom: 0;
   }
   
+  .container {
+    max-width: 780px;
+  }
 }
 
 /* Medium devices (desktops, 927px and up) */
