@@ -1,11 +1,11 @@
 +++
-title = "Designing an Internal Dashboard"
+title = "Admin system: designing an internal dashboard for campaign management"
 date = 2018-12-24T17:21:53Z
 draft = false
 weight = 3
 
 # Project summary to display on homepage.
-summary = "A project focused designing an internal dashboard for a small company I worked at."
+summary = "A project focused on designing an internal dashboard for campaign management for a small company I worked at."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -23,9 +23,9 @@ categories = []
   focal_point = "Smart"
 +++
 
-This was an internal project I did whilst working at Smartology. The goal was to create a new internal dashboard to support the growth of the company.
+## Overview
 
-It was an opportunity for me to apply the knowledge I gained from the UX Playground course. This will be my first experience doing UX work in a workplace.
+This was an internal project I did whilst working at Smartology. The company has its own internal dashboard for performing all campaign management tasks for different clients.
 
 My role was to lead the UX part of the project and I will describe the UX methods the team have used. The project had strict time constraints, so we did not fully utilise the processes to get the data we require.
 
@@ -33,13 +33,13 @@ With permission, this project describes the work I did for the company.
 
 ## Project Brief
 
-To create a dashboard for improving internal workflow efficiency and have the system scalable and future proof for supporting company growth.
+To create a dashboard for improving workflow processes, increasing efficiency and to support a new business model.
 
-The dashboard's main target audience will be the operations team, who uses the system for their daily campaign management tasks.
+The dashboard’s main target audience will be the operations team, who uses the system for their daily campaign management tasks.
 
 ## Planning
 
-The company had little experience in doing UX so I used the UX framework to create an estimated project plan. This shows the tasks required for getting the information needed for creating the dashboard. The project plan also showed the estimated time to complete the tasks and for tracking progress.
+The company had little experience with UX so I used the UX framework to create an estimated project plan. The purpose was to show the different tasks for gathering different information and for managing progress of the project.
 
 ## Research
 
@@ -50,6 +50,7 @@ The current dashboard had the following user groups:
 * Primary users
   * Account managers
   * Front-end developers
+
 
 * Secondary users
   * Finance
