@@ -78,6 +78,8 @@ I wasn't able to gather feedback from all team members but the list contained du
 
 After voting, we grouped the list into categories based on the number of votes e.g. high votes means top priority, low votes mean low priority.
 
+{{< figure class="course-photos text-center" src="imgs/grouping-requirements.jpg" title="Categorising requirements" >}}
+
 
 ### Personas
 
@@ -106,7 +108,7 @@ Instead of speaking to each individual, I organised a few group sessions for ide
 
 I felt that calling the sessions as "brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and meaning it creates for people i.e. a session where they share ideas for something. We also based the name change on using the "How might we..." method, where specific topics were used to create context to the multiple "How might we..." questions we planned.
 
-
+{{< figure class="course-photos text-center" src="imgs/hmw-planning.jpg" title="Planning "How might we..." questions" >}}
 
 
 ### HMW and Brainwriting
@@ -118,10 +120,14 @@ We planned our sessions to be one hour with at least three questions to cover. P
 
 We summarised all feedback into a Google Document as a reference for the next phase of the project.
 
+{{< figure class="course-photos text-center" src="imgs/ideation-feedback.jpg" title="Feedback from Ideation" >}}
+
 ## Wireframes
 
 For wireframing, we researched competitor dashboards for inspirations. The purpose was to understand the user journey for creating campaigns and what information are required from the user. 
 
 This was a challenging exercise because we didn't have all the information to connect the different wireframes together.
+
+{{< figure class="course-photos text-center" src="imgs/ideation-feedback.jpg" title="Our wireframes with some feedback notes" >}}
 
 ## Conclusion
