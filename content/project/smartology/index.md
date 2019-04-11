@@ -4,6 +4,9 @@ date = 2018-12-24T17:21:53Z
 draft = false
 weight = 3
 
+# Project summary to display on homepage.
+summary = "A project focused designing an internal dashboard for a small company I worked at."
+
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
