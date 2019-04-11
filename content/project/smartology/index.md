@@ -128,6 +128,6 @@ For wireframing, we researched competitor dashboards for inspirations. The purpo
 
 This was a challenging exercise because we didn't have all the information to connect the different wireframes together.
 
-{{< figure class="course-photos text-center" src="imgs/ideation-feedback.jpg" title="Our wireframes with some feedback notes" >}}
+{{< figure class="course-photos text-center" src="imgs/wireframes.jpg" title="Our wireframes with some feedback notes" >}}
 
 ## Conclusion
