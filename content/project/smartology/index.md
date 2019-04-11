@@ -38,8 +38,6 @@ The dashboard's main target audience will be the operations team, who uses the s
 
 The company had little experience in doing UX so I used the UX framework to create an estimated project plan. This shows the tasks required for getting the information needed for creating the dashboard. The project plan also showed the estimated time to complete the tasks and for tracking progress.
 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Estimated project plan" >}}
-
 ## Research
 
 For research, I focused on gathering insights into the team's workflows with the current system. It was a small team, so I did interviews to gather qualitative data. The purpose was to find out what pain points and requirements these users may have for the system.
@@ -47,12 +45,12 @@ For research, I focused on gathering insights into the team's workflows with the
 The current dashboard had the following user groups:
 
 * Primary users
- * Account managers
- * Front-end developers
+  * Account managers
+  * Front-end developers
 
 * Secondary users
- * Finance
- * Sales
+  * Finance
+  * Sales
 
 My main role was a front-end developer and we work with the Account managers. I was already familiar with both teams' workflow, so I interviewed our Finance and Sales team for insights.
 
@@ -71,13 +69,13 @@ When I shared these insights with the team, automating manual tasks became one o
 
 I created a Google Sheet for the team to add any feedback they have for the new system. I realised that this was not the best approach because it allows users to provide solutions with no context of the new system. Some feedback was also vague and biased as they focused on the individual's experience. However, because of time constraints and limited resources, I had to create the list for the team to review. It helped the team to prioritise requirements and estimate complexity for the first phase of the project.
 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="The list with votes" >}}
+{{<figure class="course-photos text-center" src="imgs/project-plan.jpg" title="The list with votes" >}}
 
 I wasn't able to gather feedback from all team members but the list contained duplicates or similar points. Since the team wasn't familiar with the UX process, it was interesting to observe different people's reaction on providing feedback. Some team members felt that their input wouldn't be relevant because they don't consider themselves to be the main target user. However, we encouraged everyone to give feedback as it can bring value to the company. 
 
 After voting, we grouped the list into categories based on the number of votes e.g. high votes means top priority, low votes mean low priority.
 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Categorising the list based on votes" >}}
+{{<figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Categorising the list based on votes" >}}
 
 ### Personas
 
@@ -85,13 +83,13 @@ I have created personas that focused on the workflows for achieving the user's g
 
 The personas may seem basic but we felt it provided sufficient information for us to progress to the next phase of the project.
 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="A persona for one of the roles in the company" >}}
+{{<figure class="course-photos text-center" src="imgs/project-plan.jpg" title="A persona for one of the roles in the company" >}}
 
 ## Flow diagrams
 
 I have created flow diagrams that covers the whole campaign setup process. All the diagrams have received many iterations based on user feedback.
 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Rough sketch of  ... process" >}}
+{{<figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Rough sketch of  ... process" >}}
 
 The flow diagrams have provided useful insights on the different processes each team has. Different teams found them useful as it allowed them to see the different tasks involved. This was also the first time I've used Lucid Charts for creating the flow diagrams. 
 
@@ -108,9 +106,9 @@ Instead of speaking to each individual, I organised a few group sessions for ide
 
 I felt that calling the sessions as "brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and meaning it creates for people i.e. a session where they share ideas for something. We also based the name change on using the "How might we..." method, where specific topics were used to create context to the multiple "How might we..." questions we planned.
 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Planning "How might we..." questions">}}
+{{<figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Planning "How might we..." questions">}}
 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="'How might we...' questions selected for the sessions" >}}
+{{<figure class="course-photos text-center" src="imgs/project-plan.jpg" title="'How might we...' questions selected for the sessions" >}}
 
 
 ### HMW and Brainwriting
@@ -119,7 +117,7 @@ We had a big group, so [I used a variation of the Brainwriting method](www.andye
 
 We planned our sessions to be one hour with at least three questions to cover. Participants were given sheets of paper with a printed 3x3 table and the question to answer. Everyone was given two minutes to read the question and then three minutes to write their ideas on the sheet. After the time limit, everyone puts their sheet on the center of the table and takes another sheet from another participant. This process is repeated but the participant can now either feedback on the initial row of ideas or share new ideas on the new sheet. Once all the rows are completely filled in, the sheets are collected for review.
 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Feedback from Ideation" >}}
+{{<figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Feedback from Ideation" >}}
 
 We summarised all feedback into a Google Document as a reference for the next phase of the project.
 
@@ -128,6 +126,6 @@ We summarised all feedback into a Google Document as a reference for the next ph
 For wireframing, we researched competitor dashboards for inspirations. The purpose was to understand the user journey for creating campaigns and what information are required from the user. 
 
 This was a challenging exercise because we didn't have all the information to connect the different wireframes together. 
-{{< figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Some wireframes for the new system" >}}
+{{<figure class="course-photos text-center" src="imgs/project-plan.jpg" title="Some wireframes for the new system" >}}
 
 ## Conclusion
