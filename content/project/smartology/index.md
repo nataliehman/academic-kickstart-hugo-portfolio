@@ -72,6 +72,8 @@ When I shared these insights with the team, automating manual tasks became one o
 
 I created a Google Sheet for the team to add any feedback they have for the new system. I realised that this was not the best approach because it allows users to provide solutions with no context of the new system. Some feedback was also vague and biased as they focused on the individual's experience. However, because of time constraints and limited resources, I had to create the list for the team to review. It helped the team to prioritise requirements and estimate complexity for the first phase of the project.
 
+{{< figure class="course-photos text-center" src="imgs/requirements-list.jpg" title="Lists of requirements with votes" >}}
+
 
 I wasn't able to gather feedback from all team members but the list contained duplicates or similar points. Since the team wasn't familiar with the UX process, it was interesting to observe different people's reaction on providing feedback. Some team members felt that their input wouldn't be relevant because they don't consider themselves to be the main target user. However, we encouraged everyone to give feedback as it can bring value to the company. 
 
@@ -86,11 +88,13 @@ I have created personas that focused on the workflows for achieving the user's g
 
 The personas may seem basic but we felt it provided sufficient information for us to progress to the next phase of the project.
 
+{{< figure class="course-photos text-center" src="imgs/persona-primary.jpg" title="One of the primary persona of the system" >}}
+
+{{< figure class="course-photos text-center" src="imgs/persona-secondary.jpg" title="One of the secondary persona of the system" >}}
 
 ## Flow diagrams
 
 I have created flow diagrams that covers the whole campaign setup process. All the diagrams have received many iterations based on user feedback.
-
 
 The flow diagrams have provided useful insights on the different processes each team has. Different teams found them useful as it allowed them to see the different tasks involved. This was also the first time I've used Lucid Charts for creating the flow diagrams. 
 
