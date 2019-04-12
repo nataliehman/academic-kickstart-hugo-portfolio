@@ -52,6 +52,10 @@ h2{
     margin-bottom:0;
   }
 
+  ul li p:not(:first-child):after {
+    margin-top:1rem;
+  }
+
 
 /* Responsive breakpoints */
 /* Small devices (landscape phones, 576px and up) */
