@@ -49,11 +49,6 @@ h2{
   }
 
   ul li p {
-    margin-top:1rem;
-  }
-
-  ul li p:first-child {
-    margin-top:0;
     margin-bottom:0;
   }
 
