@@ -1,11 +1,11 @@
 +++
-title = "Admin system: designing an internal dashboard for campaign management"
+title = "Designing an internal admin system"
 date = 2018-12-24T17:21:53Z
 draft = false
 weight = 3
 
 # Project summary to display on homepage.
-summary = "A project focused on designing an internal dashboard for campaign management for a small company I worked at."
+summary = "This is a project I did with my previous employer on designing an internal dashboard for campaign management."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -25,7 +25,7 @@ categories = []
 
 ## Overview
 
-This was an internal project I did whilst working at Smartology. The company has its own internal dashboard for performing all campaign management tasks for different clients.
+This was an internal project I did whilst working at Smartology. The company has its own internal dashboard for managing all campaign tasks for different clients.
 
 My role was to lead the UX part of the project and I will describe the UX methods the team have used. The project had strict time constraints, so we did not fully utilise the processes to get the data we require.
 
@@ -47,12 +47,11 @@ For research, I focused on gathering insights into the team's workflows with the
 
 The current dashboard had the following user groups:
 
-* Primary users
+* Primary users  
   * Account managers
   * Front-end developers
-
-
-* Secondary users
+  
+* Secondary users  
   * Finance
   * Sales
 
