@@ -48,12 +48,13 @@ h2{
     margin-bottom: 1rem;
   }
 
-  ul li p:first-child {
-    margin-bottom:0;
+  ul li p {
+    margin-top:1rem;
   }
 
-  ul li p:not(:first-child):after {
-    margin-top:1rem;
+  ul li p:first-child {
+    margin-top:0;
+    margin-bottom:0;
   }
 
 
