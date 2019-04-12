@@ -117,7 +117,6 @@ We had a big group, so [I used a variation of the Brainwriting method](www.andye
 
 We planned our sessions to be one hour with at least three questions to cover. Participants were given sheets of paper with a printed 3x3 table and the question to answer. Everyone was given two minutes to read the question and then three minutes to write their ideas on the sheet. After the time limit, everyone puts their sheet on the center of the table and takes another sheet from another participant. This process is repeated but the participant can now either feedback on the initial row of ideas or share new ideas on the new sheet. Once all the rows are completely filled in, the sheets are collected for review.
 
-
 We summarised all feedback into a Google Document as a reference for the next phase of the project.
 
 {{< figure class="course-photos text-center" src="imgs/ideation-feedback.jpg" title="Feedback from Ideation" >}}
