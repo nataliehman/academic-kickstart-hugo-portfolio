@@ -25,7 +25,7 @@ categories = []
 
 ## Overview
 
-This was an internal project I did whilst working at Smartology. The company has its own internal dashboard for managing all campaign tasks for different clients.
+This was an project I did whilst working at Smartology. The company has its own internal system for managing all campaign tasks for different clients.
 
 My role was to lead the UX part of the project and I will describe the UX methods the team have used. The project had strict time constraints, so we did not fully utilise the processes to get the data we require.
 
