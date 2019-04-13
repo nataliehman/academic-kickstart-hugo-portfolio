@@ -67,17 +67,15 @@ The interviews highlighted the major following points:
 
 When I shared these insights with the team, automating manual tasks became one of the major focus for the new system e.g. any manual tasks that can be easily automated had high priority if the company had the objective to improve efficiency.
 
-
 ### Business goals and user requirements
 
 I created a Google Sheet for the team to add any feedback they have for the new system. I realised that this was not the best approach because it allows users to provide solutions with no context of the new system. Some feedback was also vague and biased as they focused on the individual's experience. However, because of time constraints and limited resources, I had to create the list for the team to review. It helped the team to prioritise requirements and estimate complexity for the first phase of the project.
 
-I wasn't able to gather feedback from all team members but the list contained duplicates or similar points. Since the team wasn't familiar with the UX process, it was interesting to observe different people's reaction on providing feedback. Some team members felt that their input wouldn't be relevant because they don't consider themselves to be the main target user. However, we encouraged everyone to give feedback as it can bring value to the company. 
+I wasn't able to gather feedback from all team members but the list contained duplicates or similar points. Since the team wasn't familiar with the UX process, it was interesting to observe different people's reaction on providing feedback. Some team members felt that their input wouldn't be relevant because they don't consider themselves to be the main target user. However, we encouraged everyone to give feedback as it can bring value to the company.
 
 After voting, we grouped the list into categories based on the number of votes e.g. high votes means top priority, low votes mean low priority.
 
 {{< figure class="course-photos text-center" src="imgs/grouping-requirements.jpg" title="Categorising requirements" >}}
-
 
 ### Personas
 
@@ -93,23 +91,21 @@ The personas may seem basic but we felt it provided sufficient information for u
 
 I have created flow diagrams that covers the whole campaign setup process. All the diagrams have received many iterations based on user feedback.
 
-The flow diagrams have provided useful insights on the different processes each team has. Different teams found them useful as it allowed them to see the different tasks involved. This was also the first time I've used Lucid Charts for creating the flow diagrams. 
+The flow diagrams have provided useful insights on the different processes each team has. Different teams found them useful as it allowed them to see the different tasks involved. This was also the first time I've used Lucid Charts for creating the flow diagrams.
 
 We also felt we can use the diagrams to introduce new/existing team members on the whole campaign setup process. This helped individuals to better understand how different processes work e.g. we cannot bill clients unless we have the correct contact details.
 
 It was also interesting to see current team members considering their own processes and whether they feel it make sense to them (and if they have been following the correct steps for their processes).
 
-
 ## Ideation
 
 For this project, I ensured that our main users felt involved and have ownership of the project by encouraging feedback and updating the progress.
 
-Instead of speaking to each individual, I organised a few group sessions for ideation. I wanted all participants to provide feedback, so I used the "How Might We..." and Brainwriting method I learnt from my course. 
+Instead of speaking to each individual, I organised a few group sessions for ideation. I wanted all participants to provide feedback, so I used the "How Might We..." and Brainwriting method I learnt from my course.
 
 I felt that calling the sessions as "brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and meaning it creates for people i.e. a session where they share ideas for something. We also based the name change on using the "How might we..." method, where specific topics were used to create context to the multiple "How might we..." questions we planned.
 
 {{< figure class="course-photos text-center" src="imgs/hmw-planning.jpg" title="Planning 'How might we...' questions" >}}
-
 
 ### HMW and Brainwriting
 
@@ -123,7 +119,7 @@ We summarised all feedback into a Google Document as a reference for the next ph
 
 ## Wireframes
 
-For wireframing, we researched competitor dashboards for inspirations. The purpose was to understand the user journey for creating campaigns and what information are required from the user. 
+For wireframing, we researched competitor dashboards for inspirations. The purpose was to understand the user journey for creating campaigns and what information are required from the user.
 
 This was a challenging exercise because we didn't have all the information to connect the different wireframes together.
 
