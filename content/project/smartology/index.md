@@ -27,7 +27,7 @@ categories = []
 
 This was a project I did whilst working at Smartology. The company has its own internal system for managing client campaigns.
 
-The project had strict time constraints, so we did not fully utilise the processes to get the data we require.
+The project had strict time constraints, so we did not fully utilise the UX processes to get the data we require.
 
 I was the lead UX designer and with permission, I will describe the work I did for the company.
 
