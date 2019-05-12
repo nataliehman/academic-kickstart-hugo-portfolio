@@ -50,7 +50,8 @@ For research, I focused on the team's workflows with the current system. Our tea
 The current system had the following user groups: 
 
 * Primary users
-  * Account Managers   
+  * Account Managers
+    
     Responsible for managing clients and their campaigns such as communication and reporting.
 
   * Front-End Developers  
@@ -59,10 +60,10 @@ The current system had the following user groups:
 Both combined to be the Operations team and responsible for campaign launches.
 
 * Secondary users 
-  * Sales
+  * Sales  
     Communicates and secure client contracts. 
 
-  * Finance 
+  * Finance  
     Manages the billing of clients.
 
 My main role was a Front-End Developer and we work closely with the Account Managers. I was already familiar with both teams' workflow, so I interviewed our Finance and Sales team for insights.
