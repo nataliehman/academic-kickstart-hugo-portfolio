@@ -5,7 +5,7 @@ draft = false
 weight = 2
 
 # Project summary to display on homepage.
-summary = "A project focused on designing interfaces for smart devices."
+summary = "This project explores the challenges on designing interfaces for smart devices."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

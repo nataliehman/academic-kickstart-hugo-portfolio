@@ -5,7 +5,7 @@ draft = false
 weight = 3
 
 # Project summary to display on homepage.
-summary = "This is a project I did with my previous employer on designing an internal dashboard for campaign management."
+summary = "A project I did whilst working at Smartology. The focus was to design an internal dashboard for campaign management."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -25,61 +25,73 @@ categories = []
 
 ## Overview
 
-This was a project I did whilst working at Smartology. The company has its own internal system for managing client campaigns.
+This was a project I did whilst working at Smartology. The company has an internal admin system for managing client campaigns.
 
-The project had strict time constraints, so we did not fully utilise the UX processes to get the data we require.
+We did the project in an agile environment with strict time constraints. Under these conditions, we could not fully utilise the applied UX methods to get all the data we require.
 
-I was the lead UX designer and with permission, I will describe the work I did for the company.
+I was the lead UX designer and with permission, this project describes the work I did with the company.
+
+<span class="text-emphasis">Images with sensitive information are not shown in this project.</span>
 
 ## Project Brief
 
-To create a dashboard for improving workflow processes, increasing efficiency and to support a new business model.
-
-The dashboard’s main target audience will be the operations team, who uses the system for their daily campaign management tasks.
+To develop a new internal admin system for improving team workflow, increasing efficiency and to support a new business model. 
 
 ## Planning
 
-The company had little experience with UX so I used the UX framework to create an estimated project plan. The purpose was to show the different tasks for gathering different information and for managing progress of the project.
+The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground course]({{< ref "/project/ux-playground/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress. 
+
+Our focus was to improve the workflow and efficiency on campaign management, so the Operations team will be our main users of the system.
 
 ## Research
 
-For research, I focused on gathering insights into the team's workflows with the current system. It was a small team, so I did interviews to gather qualitative data. The purpose was to find out what pain points and requirements these users may have for the system.
+For research, I focused on the team's workflows with the current system. Our team was small, so I did interviews to gather qualitative data. This will help us discover what pain points and requirements users may have with their current workflow. 
 
-The current dashboard had the following user groups:
+The current system had the following user groups: 
 
-* Primary users  
-  * Account managers
-  * Front-end developers
-  
-* Secondary users  
-  * Finance
+* Primary users
+  * Account Managers
+    Responsible for managing clients and their campaigns such as communication and reporting.
+
+  * Front-End Developers
+    Deals with technical tasks in relation to campaigns such as designing and building ad creatives.
+
+Both combined to be the Operations team and responsible for campaign launches.
+
+* Secondary users 
   * Sales
+    Communicates and secure client contracts. 
 
-My main role was a front-end developer and we work with the Account managers. I was already familiar with both teams' workflow, so I interviewed our Finance and Sales team for insights.
+  * Finance 
+    Manages the billing of clients.
+
+My main role was a Front-End Developer and we work closely with the Account Managers. I was already familiar with both teams' workflow, so I interviewed our Finance and Sales team for insights.
 
 ### Interviews
 
-The interviews highlighted the major following points:
+The interviews involved me talking to a representative from the Sales and Finance team about their daily job process. It has highlighted the following major points: 
 
-* The current dashboard not entirely suitable for Sales and Finance because they needed certain data which are not available for them to do their tasks.
-* They have to do more manual tasks especially for Finance as they require campaign data for billing and for other tasks such as company forecasting.
-* For Sales, there are no place for them to store client information within the internal dashboard. This suggests that different people will have different information on campaigns.
+* Not all data in the current system are available for both teams to do their tasks e.g. start and end dates of campaigns not available for billing or forecasting.
 
-When I shared these insights with the team, automating manual tasks became one of the major focus for the new system e.g. any manual tasks that can be easily automated had high priority if the company had the objective to improve efficiency.
+* There are more manual tasks for the Finance team, which requires them to create custom reports in Excel e.g. gathering and organising the required data for billing. 
+
+* For the Sales team, they cannot store client information within the current system. This suggests that different people will have different information on campaigns e.g. from emails and meetings. Therefore, data in the system are potentially not up-to-date.
+
+When I shared these insights with the team, automating manual tasks became one of the major focus for the new system. This means any manual tasks that can be automated had high priority as it relates to the company objective on improving efficiency. 
 
 ### Business goals and user requirements
 
-I created a Google Sheet for the team to add any feedback they have for the new system. I realised that this was not the best approach because it allows users to provide solutions with no context of the new system. Some feedback was also vague and biased as they focused on the individual's experience. However, because of time constraints and limited resources, I had to create the list for the team to review. It helped the team to prioritise requirements and estimate complexity for the first phase of the project.
-
-I wasn't able to gather feedback from all team members but the list contained duplicates or similar points. Since the team wasn't familiar with the UX process, it was interesting to observe different people's reaction on providing feedback. Some team members felt that their input wouldn't be relevant because they don't consider themselves to be the main target user. However, we encouraged everyone to give feedback as it can bring value to the company.
+I used Google Sheet for collecting feedback on the current system. I realised this was not the best approach because the team had no context of the new system i.e. what features it would have. Some feedback was also vague and biased because they focused on the individual’s experience. However, because of time constraints and limited resources, I had to create the list for the team to review. It has helped the team to prioritise requirements and estimate complexity for the first phase of the project. 
 
 After voting, we grouped the list into categories based on the number of votes e.g. high votes means top priority, low votes mean low priority.
 
-{{< figure class="course-photos text-center" src="imgs/grouping-requirements.jpg" title="Categorising requirements" >}}
+{{< figure class="course-photos text-center" src="imgs/grouping-requirements.jpg" title="Categorising requirements" >}} 
+
+With the team having no familiarity with the UX process, it was interesting to observe people’s reaction on providing feedback. Some team members felt that their input may not be relevant because they are not the main target user. However, we encouraged everyone to give feedback as it can help bring value to the company. 
 
 ### Personas
 
-I have created personas that focused on the workflows for achieving the user's goal. The personas are different roles within the company that will use the new system at different stages of the campaign setup process. I had the personas reviewed by the team so they reflect the different roles as close as possible.
+I have created personas based on the different roles within the company. They showcased how different users use the current system. I had the personas reviewed by the team to ensure they reflect the job roles as close as possible.
 
 The personas may seem basic but we felt it provided sufficient information for us to progress to the next phase of the project.
 
@@ -89,40 +101,50 @@ The personas may seem basic but we felt it provided sufficient information for u
 
 ## Flow diagrams
 
-I have created flow diagrams that covers the whole campaign setup process. All the diagrams have received many iterations based on user feedback.
+I have created flow diagrams covering the whole campaign setup process. All the diagrams have received many iterations based on user feedback.
 
-The flow diagrams have provided useful insights on the different processes each team has. Different teams found them useful as it allowed them to see the different tasks involved. This was also the first time I've used Lucid Charts for creating the flow diagrams.
+Team members have found them useful for understanding other team’s workflow and as an introductory resource for new employees. This was also my first experience in using Lucid Charts for creating flow diagrams.
 
-We also felt we can use the diagrams to introduce new/existing team members on the whole campaign setup process. This helped individuals to better understand how different processes work e.g. we cannot bill clients unless we have the correct contact details.
-
-It was also interesting to see current team members considering their own processes and whether they feel it make sense to them (and if they have been following the correct steps for their processes).
+It was also interesting to observe how the current team members consider their own workflow, and whether they feel it make sense to them.
 
 ## Ideation
 
-For this project, I ensured that our main users felt involved and have ownership of the project by encouraging feedback and updating the progress.
+For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method I learnt from the UX Playground course. 
 
-Instead of speaking to each individual, I organised a few group sessions for ideation. I wanted all participants to provide feedback, so I used the "How Might We..." and Brainwriting method I learnt from my course.
-
-I felt that calling the sessions as "brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and meaning it creates for people i.e. a session where they share ideas for something. We also based the name change on using the "How might we..." method, where specific topics were used to create context to the multiple "How might we..." questions we planned.
+I felt that calling the sessions as "Brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and based on using the "How might we..." method.
 
 {{< figure class="course-photos text-center" src="imgs/hmw-planning.jpg" title="Planning 'How might we...' questions" >}}
 
 ### HMW and Brainwriting
 
-We had a big group, so [I used a variation of the Brainwriting method](www.andyeklund.com/brainstorm-technique-brainwriting/) that allowed me to collect feedback quickly.
+We had a big group, so [I used a variation of the Brainwriting method](www.andyeklund.com/brainstorm-technique-brainwriting/) for collecting feedback quickly. I planned our sessions to be one hour with three/four questions to cover. 
 
-We planned our sessions to be one hour with at least three questions to cover. Participants were given sheets of paper with a printed 3x3 table and the question to answer. Everyone was given two minutes to read the question and then three minutes to write their ideas on the sheet. After the time limit, everyone puts their sheet on the center of the table and takes another sheet from another participant. This process is repeated but the participant can now either feedback on the initial row of ideas or share new ideas on the new sheet. Once all the rows are completely filled in, the sheets are collected for review.
+Process:
 
-We summarised all feedback into a Google Document as a reference for the next phase of the project.
+1. I handed out sheets of paper with a printed 3x3 table with the question to answer. 
+2. I gave everyone two minutes to read the question and then three minutes to write their ideas on the sheet.
+3. After the time limit, everyone puts their sheet on the center of the table and takes another sheet from the pile.
+4. We repeated this process but the participant can now either feedback on the initial row of ideas or share new ideas on a new row.
+5. Once the table is complete, I collected the sheets for review. 
+
+We summarised all feedback into a Google Document as a reference for the next phase of the project. 
 
 {{< figure class="course-photos text-center" src="imgs/ideation-feedback.jpg" title="Feedback from Ideation" >}}
 
 ## Wireframes
 
-For wireframing, we researched competitor dashboards for inspirations. The purpose was to understand the user journey for creating campaigns and what information are required from the user.
+For wireframing, we researched competitor dashboards for inspirations. The purpose was to understand the user journey for creating campaigns and what information the user may require. 
 
-This was a challenging exercise because we didn't have all the information to connect the different wireframes together.
+This was a challenging exercise because we could not gather sufficient information to create wireframes for a new system that covers the whole campaign launch process.
 
 {{< figure class="course-photos text-center" src="imgs/wireframes.jpg" title="Our wireframes with some feedback notes" >}}
 
 ## Conclusion
+
+The main challenges for this project was to manage the communication and expectations of users. As the only UX Designer in the team, it was difficult to judge whether my decisions are correct for the project. However, I communicated that although I may lack the knowledge of an experienced UX Designer, I am open to feedback and being flexible with my process.
+
+It was also interesting to observe the change in behaviour of my team members. The UX process allowed the team to see the importance of communicating with users. It helped me to highlight problems/solutions that the development team did not expect or have not considered e.g. missing form field or adding labels for context. This also helped the development team with their sprint planning and prioritising features.
+
+For the users, they were open to providing honest feedback or to ask questions on features in development. Since they know that solutions are being developed, it showed that they have more ownership of the project. I noticed the users are more enthusiastic and positive when the development team share updates on their work.
+
+Overall, introducing the UX framework to my team have positively changed their approach to internal projects. With users sharing feedback and the development team creating solutions, both sides could see a roadmap (both long and short term) of the project and how it gradually grows and change the workflow of the company.
