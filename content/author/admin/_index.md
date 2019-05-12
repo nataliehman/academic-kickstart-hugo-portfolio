@@ -84,8 +84,8 @@ bio = ""
 
 # Hello,
 
-I'm currently looking for opportunities in starting a new career path as a UX Designer.
+I am currently looking for opportunities in starting a new career path as a User Experience Designer.
 
-My previous experience was working as a Front-end Developer in a small advertising technology company.
+My previous experience was working in a small advertising technology company as a Front-End Developer.
 
-I was always curious about having a career in Design, which led me to learn about User Experience. To develop my knowledge, I have undertaken projects that demonstrates the different UX methodologies I have learnt so far. 
+I was curious about having a career in Design, which led me to discover User Experience.
