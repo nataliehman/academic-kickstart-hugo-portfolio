@@ -88,4 +88,4 @@ I am currently looking for opportunities in starting a new career path as a Use
 
 My previous experience was working in a small advertising technology company as a Front-End Developer.
 
-I was curious about having a career in Design, which led me to discover User Experience.
+I am curious about having a career in Design, which led me to discover User Experience.
