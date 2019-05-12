@@ -50,10 +50,10 @@ For research, I focused on the team's workflows with the current system. Our tea
 The current system had the following user groups: 
 
 * Primary users
-  * Account Managers
+  * Account Managers   
     Responsible for managing clients and their campaigns such as communication and reporting.
 
-  * Front-End Developers
+  * Front-End Developers  
     Deals with technical tasks in relation to campaigns such as designing and building ad creatives.
 
 Both combined to be the Operations team and responsible for campaign launches.
