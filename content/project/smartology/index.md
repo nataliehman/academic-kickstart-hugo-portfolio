@@ -50,8 +50,7 @@ For research, I focused on the team's workflows with the current system. Our tea
 The current system had the following user groups: 
 
 * Primary users
-  * Account Managers
-    
+  * Account Managers  
     Responsible for managing clients and their campaigns such as communication and reporting.
 
   * Front-End Developers  
@@ -82,11 +81,13 @@ When I shared these insights with the team, automating manual tasks became one o
 
 ### Business goals and user requirements
 
-I used Google Sheet for collecting feedback on the current system. I realised this was not the best approach because the team had no context of the new system i.e. what features it would have. Some feedback was also vague and biased because they focused on the individual’s experience. However, because of time constraints and limited resources, I had to create the list for the team to review. It has helped the team to prioritise requirements and estimate complexity for the first phase of the project. 
+I used Google Sheet for collecting feedback on the current system. I realised this was not the best approach because the team had no context of the new system i.e. what features it would have. 
+
+Some feedback was also vague and biased because they focused on the individual’s experience. However, because of time constraints and limited resources, I had to create the list for the team to review. It has helped the team to prioritise requirements and estimate complexity for the first phase of the project. 
 
 After voting, we grouped the list into categories based on the number of votes e.g. high votes means top priority, low votes mean low priority.
 
-{{< figure class="course-photos text-center" src="imgs/grouping-requirements.jpg" title="Categorising requirements" >}} 
+{{< figure class="course-photos text-center" src="imgs/grouping-requirements.jpg" title="Categorising requirements" >}}
 
 With the team having no familiarity with the UX process, it was interesting to observe people’s reaction on providing feedback. Some team members felt that their input may not be relevant because they are not the main target user. However, we encouraged everyone to give feedback as it can help bring value to the company. 
 
@@ -110,7 +111,7 @@ It was also interesting to observe how the current team members consider their o
 
 ## Ideation
 
-For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method I learnt from the UX Playground course. 
+For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method I learnt from the [UX Playground course]({{< ref "/project/ux-playground/index.md" >}}). 
 
 I felt that calling the sessions as "Brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and based on using the "How might we..." method.
 
@@ -118,7 +119,7 @@ I felt that calling the sessions as "Brainstorming" to be too formal and intimid
 
 ### HMW and Brainwriting
 
-We had a big group, so [I used a variation of the Brainwriting method](www.andyeklund.com/brainstorm-technique-brainwriting/) for collecting feedback quickly. I planned our sessions to be one hour with three/four questions to cover. 
+We had a big group, so [I used a variation of the Brainwriting method](http://www.andyeklund.com/brainstorm-technique-brainwriting/) for collecting feedback quickly. I planned our sessions to be one hour with three/four questions to cover. 
 
 Process:
 
@@ -128,7 +129,7 @@ Process:
 4. We repeated this process but the participant can now either feedback on the initial row of ideas or share new ideas on a new row.
 5. Once the table is complete, I collected the sheets for review. 
 
-We summarised all feedback into a Google Document as a reference for the next phase of the project. 
+We summarised all feedback into a Google Document as a reference for the next phase of the project.
 
 {{< figure class="course-photos text-center" src="imgs/ideation-feedback.jpg" title="Feedback from Ideation" >}}
 
@@ -136,7 +137,7 @@ We summarised all feedback into a Google Document as a reference for the next ph
 
 For wireframing, we researched competitor dashboards for inspirations. The purpose was to understand the user journey for creating campaigns and what information the user may require. 
 
-This was a challenging exercise because we could not gather sufficient information to create wireframes for a new system that covers the whole campaign launch process.
+This was a challenging exercise because we could not gather sufficient information to create wireframes for the whole new system.
 
 {{< figure class="course-photos text-center" src="imgs/wireframes.jpg" title="Our wireframes with some feedback notes" >}}
 
