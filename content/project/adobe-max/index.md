@@ -20,12 +20,12 @@ categories = []
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Bottom"
 +++
 
 ## Overview
 
-This project focused on the tools available for prototyping with smart devices. I had the opportunity to work with Chakib and Stephanie, whom I met from the UX Playground course. We prepared this project as part of the Adobe Max event, which took place on 15-17 October 2018.
+This project focused on the tools available for prototyping with smart devices. I had the opportunity to work with Chakib and Stephanie, whom I met from the UX Playground course. We prepared this project as part of the Adobe Max event, which took place on 15-17 October 2018. The project was also showcased in a [UX Playground meetup event on 26 September 2018](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/).
 
 My role was to create interactive prototypes and I will describe my experiences on the tools I have used.
 
