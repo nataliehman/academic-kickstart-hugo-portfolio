@@ -25,7 +25,9 @@ categories = []
 
 ## Overview
 
-This project focused on the tools available for prototyping with smart devices. I had the opportunity to work with Chakib and Stephanie, whom I met from the UX Playground course. We prepared this project as part of the Adobe Max event, which took place on 15-17 October 2018. The project was also showcased in a [UX Playground meetup event on 26 September 2018](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/).
+This project focused on the tools available for prototyping with smart devices. I had the opportunity to work with Chakib and Stephanie, whom I met from the UX Playground course. 
+
+We prepared this project as part of the [Adobe Max event](https://theblog.adobe.com/three-tips-on-smarter-device-design/?scid=0bffdabd-0987-4f47-b29e-f5d74616e18b&mv=social&mv2=owned_social), which took place on 15-17 October 2018. The project was also showcased in a [UX Playground meetup event](https://www.meetup.com/UX-Playground-The-User-Experience-Meetup-for-Londoners/events/254440446/) on 26 September 2018.
 
 My role was to create interactive prototypes and I will describe my experiences on the tools I have used.
 
