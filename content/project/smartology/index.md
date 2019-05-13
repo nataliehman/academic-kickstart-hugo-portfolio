@@ -143,10 +143,10 @@ This was a challenging exercise because we could not gather sufficient informati
 
 ## Conclusion
 
-The main challenges for this project was to manage the communication and expectations of users. As the only UX Designer in the team, it was difficult to judge whether my decisions are correct for the project. However, I communicated that although I may lack the knowledge of an experienced UX Designer, I am open to feedback and being flexible with my process.
+The main challenges for this project was to manage the communication and expectations of users. As the only UX Designer in the team, it was difficult to judge whether my decisions are correct for the project. However, I expressed that I am open to feedback and being flexible with my process.
 
-It was also interesting to observe the change in behaviour of my team members. The UX process allowed the team to see the importance of communicating with users. It helped me to highlight problems/solutions that the development team did not expect or have not considered e.g. missing form field or adding labels for context. This also helped the development team with their sprint planning and prioritising features.
+It was interesting to observe the change in behaviour of my team members. The UX process allowed the team to experience the advantages of involving the main users. It has highlighted problems/solutions that the development team did not expect or consider e.g. missing form field or adding labels for context. The user feedback also helped the development team with their sprint planning and prioritising features.
 
-For the users, they were open to providing honest feedback or to ask questions on features in development. Since they know that solutions are being developed, it showed that they have more ownership of the project. I noticed the users are more enthusiastic and positive when the development team share updates on their work.
+For the users, they were open to providing honest feedback or to ask questions on features in development. Since they know what is being worked on, it showed that they have more ownership of the project. I noticed the users are more enthusiastic and positive when the development team share updates on their work.
 
-Overall, introducing the UX framework to my team have positively changed their approach to internal projects. With users sharing feedback and the development team creating solutions, both sides could see a roadmap (both long and short term) of the project and how it gradually grows and change the workflow of the company.
+Overall, introducing the UX framework to my team have positively changed their approach to internal projects. With users giving feedback and the development team sharing progress, both sides could see a clearer roadmap (both long and short term) of the project and how it changes the workflow of the company.
