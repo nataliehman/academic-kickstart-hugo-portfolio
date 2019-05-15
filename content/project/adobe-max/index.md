@@ -50,7 +50,7 @@ I also researched what prototyping tools Adobe XD can integrate with. However, f
 
 We spoke with a staff member from ProtoPie, who suggested us to use Arduino and LittleBits for smart device prototyping. I knew Arduino required programming, so I researched LittleBits as I had no knowledge on what it does.
 
-{{< figure class="course-photos text-center" src="imgs/littlebits.jpg" title="LittleBits is a tool for teaching people from all ages to build, prototype and invent with electronics" >}}
+{{< figure class="course-photos text-center" src="imgs/littlebits.jpg" title="LittleBits is a tool for teaching people from all ages to build, prototype and invent with electronics" link="https://littlebits.com">}}
 
 
 ## Ideation
@@ -61,7 +61,7 @@ For ideation, we explored how we interact with physical interfaces e.g. light sw
 
 Throughout this phase, I was experimenting and testing how LittleBits work with ProtoPie. This exercise allowed us to see what types of interactions we can prototype for the project.
 
-{{< figure class="course-photos text-center" src="imgs/littlebits-experiment.jpg" title="Experimenting with LittleBits" link="https://littlebits.com">}}
+{{< figure class="course-photos text-center" src="imgs/littlebits-experiment.jpg" title="Experimenting with LittleBits">}}
 
 It was mostly trial and error because of limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like a programming exercise e.g. logical steps and conditional states for triggering animations,  considering the inputs and outputs for a process and how the inputs may produce the output.
 
