@@ -61,7 +61,7 @@ For ideation, we explored how we interact with physical interfaces e.g. light sw
 
 Throughout this phase, I was experimenting and testing how LittleBits work with ProtoPie. This exercise allowed us to see what types of interactions we can prototype for the project.
 
-{{< figure class="course-photos text-center" src="imgs/littlebits-experiment.jpg" title="Experimenting with LittleBits" link="https://littlebits.com/" >}}
+{{< figure class="course-photos text-center" src="imgs/littlebits-experiment.jpg" title="Experimenting with LittleBits" link="https://littlebits.com">}}
 
 It was mostly trial and error because of limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like a programming exercise e.g. logical steps and conditional states for triggering animations,  considering the inputs and outputs for a process and how the inputs may produce the output.
 
