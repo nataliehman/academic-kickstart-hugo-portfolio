@@ -5,7 +5,7 @@ draft = false
 weight = 1
 
 # Project summary to display on homepage.
-summary = "A project focused on prototyping smart devices using an app and electronic hardware."
+summary = "A project focused on prototyping smart devices using an app and electronic hardware. This was showcased in Adobe Max 2018 and UX Playground Meetup event on September 2018"
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

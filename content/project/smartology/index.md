@@ -5,7 +5,7 @@ draft = false
 weight = 3
 
 # Project summary to display on homepage.
-summary = "A project I did whilst working at Smartology. The focus was to design an internal dashboard for campaign management."
+summary = "A team project I did whilst working at Smartology. The focus was to design an internal dashboard for campaign management."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
