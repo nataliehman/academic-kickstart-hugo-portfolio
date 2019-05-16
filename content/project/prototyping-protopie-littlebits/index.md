@@ -63,7 +63,7 @@ Throughout this phase, I was experimenting and testing how LittleBits work with 
 
 {{< figure class="course-photos text-center" src="imgs/littlebits-experiment.jpg" title="Experimenting with LittleBits">}}
 
-It was mostly trial and error because of limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like a programming exercise e.g. logical steps and conditional states for triggering animations,  considering the inputs and outputs for a process and how the inputs may produce the output.
+It was mostly trial and error because of limited resources on integrating LittleBits with ProtoPie. However, it was an interesting challenge as it felt like a programming exercise e.g. logical steps and conditional states for triggering animations, considering the inputs and outputs for a process and how the inputs may produce the output.
 
 {{< figure class="course-photos text-center" src="imgs/littlebits-protopie-light-off.jpg" title="A light switch prototype for testing ProtoPie and LittleBits (off state)" >}}
 
