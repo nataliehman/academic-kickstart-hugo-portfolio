@@ -39,7 +39,9 @@ To develop a new internal admin system for improving team workflow, increasing e
 
 ## Planning
 
-The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground course]({{< ref "/project/eat-smart/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress. 
+The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground course]({{< ref "/project/eat-smart/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress.
+
+{{< figure class="course-photos text-center" src="imgs/ux-framework.jpg" title="UX Framework I learnt from the UX Playground course" >}}
 
 Our focus was to improve the workflow and efficiency on campaign management, so the Operations team will be our main users of the system.
 
