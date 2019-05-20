@@ -39,7 +39,7 @@ To develop a new internal admin system for improving team workflow, increasing e
 
 ## Planning
 
-The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground course]({{< ref "/project/ux-playground/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress. 
+The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground course]({{< ref "/project/eat-smart/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress. 
 
 Our focus was to improve the workflow and efficiency on campaign management, so the Operations team will be our main users of the system.
 
@@ -111,7 +111,7 @@ It was also interesting to observe how the current team members consider their o
 
 ## Ideation
 
-For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method I learnt from the [UX Playground course]({{< ref "/project/ux-playground/index.md" >}}). 
+For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method I learnt from the [UX Playground course]({{< ref "/project/eat-smart/index.md" >}}). 
 
 I felt that calling the sessions as "Brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and based on using the "How might we..." method.
 
