@@ -143,6 +143,43 @@ This was a challenging exercise because we could not gather sufficient informati
 
 {{< figure class="course-photos text-center" src="imgs/wireframes.jpg" title="Our wireframes with some feedback notes" >}}
 
+## Other Processes: Minor Involvement with UX
+
+With the pressure of the team aiming for MVP and limited resources, I eventually switched back to being a Front-End Developer working on the day job. However, as the only person with UX experience, I assist the team with any UX deliverables required.
+
+### UI Design, User Flows and Prototyping
+
+For this phase, I worked with a Freelance Designer for about one to two months. I cannot share screens of the design as I did not create them. However, my role was to collaborate and support the Freelance Designer on creating a new design of the dashboard. It needs to show the end to end process of creating campaigns.
+
+Our collaboration involved:
+
+* Communicating with the team on requirements and priority
+* Analysing the current dashboard and how Account Managers/Front-end Developers use it
+* Me sharing insights on the workflow of the current campaign setup process
+* Attempt to create new screens that can simplify any user flows
+* Speak to relevant users for further insights especially for verifying what important data should be on the dashboard
+* Attempt to create a high fidelity prototype with Invision and did user testing
+* Iterate and make changes based on feedback
+
+It was an enjoyable experience as I get to learn the process of the Designer. Creating a design for a whole system was no easy task, so it was normal for the both of us to feel mentally exhausted by the end of the day. Unfortunately, we could not create screens for some parts of the system because of insufficient research. However, we created designs for areas with high priority and the development team used them as a blueprint for starting their sprint.
+
+Although the design was incomplete, it allowed the developers to have a reference on what they will create visually. It was also useful for the rest of the team to have an idea on what the future dashboard would look like.
+
+### User Testing
+
+I helped organise user testing sessions when the development team required feedback on features they are working on. I also offered advice to team members involved in interviewing or note taking for the sessions.
+
+My process typically involved:
+
+* Find out what needs to be tested and why
+* Create tasks and user scenarios with relevant members
+* Help simplify tasks if they were complex
+* Create a test plan for interviewer and note taker with notes to aid their session
+* Create a test plan for the user describing the scenario and instructions on the tasks they need to perform 
+* Emphasise with the interviewer that they should always ask questions that does not prompt a "Yes" or "No" answer
+
+This was quite a challenging process to teach to my team because there will always be unexpected situations e.g. broken equipment, internet not available, busy schedules etc. Personally, the most difficult part was advising the interviewer to not ask closed questions especially if they never did user testing.
+
 ## Conclusion
 
 The main challenges for this project was to manage the communication and expectations of users. As the only UX Designer in the team, it was difficult to judge whether my decisions are correct for the project. However, I expressed that I am open to feedback and being flexible with my process.
