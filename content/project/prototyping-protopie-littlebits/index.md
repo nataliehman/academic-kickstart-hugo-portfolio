@@ -2,7 +2,7 @@
 title = "Prototyping with ProtoPie and LittleBits"
 date = 2018-12-24T17:21:39Z
 draft = false
-weight = 1
+weight = 2
 
 # Project summary to display on homepage.
 summary = "A project focused on prototyping smart devices using an app and electronic hardware. This was showcased in Adobe Max 2018 and UX Playground Meetup event on September 2018"

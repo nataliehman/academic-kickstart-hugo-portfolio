@@ -1,11 +1,11 @@
 +++
-title = "Designing an internal admin system"
+title = "Redesigning a data dashboard"
 date = 2018-12-24T17:21:53Z
 draft = false
 weight = 3
 
 # Project summary to display on homepage.
-summary = "A team project I did whilst working at Smartology. The focus was to design an internal dashboard for campaign management."
+summary = "A team project I did whilst working at Smartology. The focus was to redesign a data dashboard for campaign management."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -39,7 +39,7 @@ To develop a new internal admin system for improving team workflow, increasing e
 
 ## Planning
 
-The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground course]({{< ref "/project/eat-smart/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress.
+The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground course]({{< ref "/project/designing-interface-smart-devices/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress.
 
 {{< figure class="course-photos text-center" src="imgs/ux-framework.jpg" title="UX Framework I learnt from the UX Playground course" >}}
 
@@ -113,7 +113,7 @@ It was also interesting to observe how the current team members consider their o
 
 ## Ideation
 
-For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method I learnt from the [UX Playground course]({{< ref "/project/eat-smart/index.md" >}}). 
+For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method I learnt from the [UX Playground course]({{< ref "/project/designing-interface-smart-devices/index.md" >}}). 
 
 I felt that calling the sessions as "Brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and based on using the "How might we..." method.
 
