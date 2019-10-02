@@ -25,7 +25,7 @@ categories = []
 
 ## Overview
 
-This was a project I did whilst working at Smartology. The company has an internal admin system for managing client campaigns.
+This was a project I did whilst working at Smartology. The company has a data dashboard for managing client campaigns.
 
 We did the project in an agile environment with strict time constraints. Under these conditions, we could not fully utilise the applied UX methods to get all the data we require.
 
@@ -35,13 +35,13 @@ I was the lead UX designer and with permission, this project describes the work 
 
 ## Project Brief
 
-To develop a new internal admin system for improving team workflow, increasing efficiency and to support a new business model. 
+To develop a new data dashboard for improving team workflow, increasing efficiency and to support a new business model. 
 
 ## Planning
 
-The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground course]({{< ref "/project/designing-interface-smart-devices/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress.
+The company had little experience with UX, so I created a project plan based on the UX framework I learnt from the [UX Playground project]({{< ref "/project/designing-interface-smart-devices/index.md" >}}). This has helped the team to have an overview of each process and for monitoring progress.
 
-{{< figure class="course-photos text-center" src="imgs/ux-framework.jpg" title="UX Framework I learnt from the UX Playground course" >}}
+{{< figure class="course-photos text-center" src="imgs/ux-framework.jpg" title="UX Framework I learnt from the UX Playground project" >}}
 
 Our focus was to improve the workflow and efficiency on campaign management, so the Operations team will be our main users of the system.
 
@@ -113,7 +113,7 @@ It was also interesting to observe how the current team members consider their o
 
 ## Ideation
 
-For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method I learnt from the [UX Playground course]({{< ref "/project/designing-interface-smart-devices/index.md" >}}). 
+For this project, I ensured that the main users felt involved by encouraging them to give feedback. I organised a few group sessions for ideation and used the "How Might We..." and Brainwriting method. 
 
 I felt that calling the sessions as "Brainstorming" to be too formal and intimidating so [I researched alternative names](https://www.trainingzone.co.uk/community/discuss/is-there-an-alternative-word-phrase-for-brainstorm). We agreed to use "Suggest-fest" for the humour and based on using the "How might we..." method.
 

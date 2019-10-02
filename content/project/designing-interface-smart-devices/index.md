@@ -27,13 +27,11 @@ categories = []
 
 ## Overview
 
-Eat Smart is an app focused on healthy eating. It provides food suggestions and nutrition details to help users manage their health goals.
-
-This was a team project I did when I joined the UX Playground course. The focus was to explore the challenges of designing interfaces for smart devices.
+This was a team project I did with UX Playground. The focus was to explore the challenges of designing interfaces for smart devices.
 
 <span class="text-emphasis">This is an incomplete and conceptual project.</span>
 
-{{< figure class="course-photos text-center" src="imgs/group-photo.jpg" title="The team celebrating after finishing the course" >}}
+{{< figure class="course-photos text-center" src="imgs/group-photo.jpg" title="The team celebrating after finishing the project" >}}
 
 ## Project Brief
 
@@ -184,7 +182,7 @@ We also attempted to create task flows for user testing but it was difficult bec
 
 {{< figure class="course-photos text-center" src="imgs/figma-prototype.jpg" title="Our low fidelity prototype in Figma" >}}
 
-Unfortunately, we did not create a high fidelity prototype before the end of the course. However, I attempted to create a basic prototype by using ProtoPie. The tool supports animations and allows communication between devices. I took this opportunity to learn a new tool and experimented by creating two basic prototypes showing these features.
+Unfortunately, we did not create a high fidelity prototype before the end of the project. However, I attempted to create a basic prototype by using ProtoPie. The tool supports animations and allows communication between devices. I took this opportunity to learn a new tool and experimented by creating two basic prototypes showing these features.
 
 &nbsp;
 &nbsp;
@@ -200,6 +198,6 @@ Unfortunately, we did not create a high fidelity prototype before the end of the
 
 ## Conclusion
 
-This course has given me the opportunity to learn about the UX framework by working on a practical project. It was a fun learning experience, and I enjoyed collaborating with people from different job experiences.
+This project has given me the opportunity to learn about the UX framework, which was a fun learning experience. I also enjoyed collaborating with people from different job experiences.
 
-Although the project is conceptual, it was a challenge to design for smart devices as I am not a smart device user. Furthermore, this course has developed my knowledge and understanding on the challenges designers have when creating experiences for smart devices.
+Although the project is conceptual, it was a challenge to design for smart devices as I am not a smart device user. Furthermore, it has developed my knowledge and understanding on the challenges designers have when creating experiences for smart devices.
