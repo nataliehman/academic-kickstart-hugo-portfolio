@@ -86,4 +86,4 @@ bio = ""
 
 I am a User Experience Designer.
 
-I enjoy problem solving and understanding user behaviours to design delightful experiences. I believe that good design is useful, relevant and enjoyable for its users.
+I enjoy problem solving and understanding user behaviours to design delightful experiences. I believe that UX exists in our everyday lives, regardless if its digital or physical.
