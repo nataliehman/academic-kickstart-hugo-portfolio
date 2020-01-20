@@ -1,4 +1,8 @@
 +++
+# NOTE: Site built with Hugo 0.53. Current version is 0.56 on MacBook Air 20th Jan 2020.
+#       DO NOT UPGRADE or Local Rendering will break due to major changes between versions
+#       BOTH on Hugo and Academic Theme!
+
 # Display name
 name = "Natalie H. Man"
 
