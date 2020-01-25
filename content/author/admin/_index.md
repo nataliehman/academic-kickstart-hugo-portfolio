@@ -1,5 +1,5 @@
 +++
-# NOTE: Site built with Hugo 0.53. Current version is 0.56 on MacBook Air 20th Jan 2020.
+# NOTE: Site built with Hugo 0.53. Current version is 0.56 on MacBook Air 20th Jan 2020. Academic is 4.1
 #       DO NOT UPGRADE or Local Rendering will break due to major changes between versions
 #       BOTH on Hugo and Academic Theme!
 
@@ -79,10 +79,10 @@ bio = ""
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "files/natalie-man-cv.pdf"
+#[[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/natalie-man-cv.pdf"
 
 +++
 
