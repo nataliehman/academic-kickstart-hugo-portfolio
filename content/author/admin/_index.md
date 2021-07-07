@@ -63,16 +63,6 @@ bio = ""
 #   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/nataliehman"
-
-  [[social]]
-  icon = "vimeo"
-  icon_pack = "fab"
-  link = "https://vimeo.com/nataliehman"
-
-[[social]]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/natalieman/"
